@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Festival {
+public class Festival {
     private String nombre;
     private String codigo;
     private String nombreCoordinador;
